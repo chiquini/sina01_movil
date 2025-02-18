@@ -194,7 +194,7 @@
 .text_link_mouse_down {
 }
 .c_spacer {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -204,7 +204,7 @@
   line-height:18px;
 }
 .c_spacer_num {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:8px;
@@ -213,7 +213,7 @@
   line-height:normal;
 }
 .c_spacer_num_sm {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:6px;
@@ -222,7 +222,7 @@
   line-height:normal;
 }
 .c_tab-cont {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -235,13 +235,13 @@
   color:#161616;
 }
 .c_tab-cont__selected__gry_ {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
   font-weight:650;
   font-style:normal;
   color:#161616;
 }
 .c_tab-cont_right {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -251,7 +251,7 @@
   line-height:18px;
 }
 .c_table_column {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -261,7 +261,7 @@
   line-height:18px;
 }
 .c_table_column_header {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
   font-weight:650;
   font-style:normal;
   font-size:14px;
@@ -271,7 +271,7 @@
   line-height:18px;
 }
 .c_table_exp_content {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -281,7 +281,7 @@
   line-height:18px;
 }
 .c_text_input {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -297,7 +297,7 @@
 .c_tile__selected {
 }
 .c_tooltip_cont_def {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -307,7 +307,7 @@
   line-height:18px;
 }
 .c_tooltip_cont_interactive {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -317,7 +317,7 @@
   line-height:18px;
 }
 .c_typo__body-short-01 {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -327,7 +327,7 @@
   line-height:18px;
 }
 .c_typo__body-short-01_text-02 {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -337,7 +337,7 @@
   line-height:18px;
 }
 .c_typo__heading-01 {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
   font-weight:650;
   font-style:normal;
   font-size:14px;
@@ -347,7 +347,7 @@
   line-height:18px;
 }
 .c_typo__heading-03_prd {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:20px;
@@ -357,7 +357,7 @@
   line-height:26px;
 }
 .c_typo__helper-text-01 {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -367,7 +367,7 @@
   line-height:16px;
 }
 .c_typo__label-01 {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -377,7 +377,7 @@
   line-height:16px;
 }
 .c_ui_header_name_ibm {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -387,7 +387,7 @@
   line-height:18px;
 }
 .c_ui_header_name_product {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
   font-weight:650;
   font-style:normal;
   font-size:14px;
@@ -397,7 +397,7 @@
   line-height:18px;
 }
 .c_ui_header_link {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -416,7 +416,7 @@
   color:#C6C6C6;
 }
 .c_ui_header_sub-parent {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -426,7 +426,7 @@
   line-height:18px;
 }
 .c_ui_header_sub-item {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -454,7 +454,7 @@
 .c_ui_header_search_clear {
 }
 .c_ui_header_search_input {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -463,7 +463,7 @@
   line-height:normal;
 }
 .c_ui_right_label {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -473,7 +473,7 @@
   line-height:16px;
 }
 .c_ui_right_link {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -489,7 +489,7 @@
   color:#F4F4F4;
 }
 .c_ui_right_link__disabled {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -566,21 +566,21 @@
 .c_shadow_0_2px_6px_0__0_3_ {
 }
 .c_accd_content {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:18px;
 }
 .c_accd_header {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   text-align:left;
   line-height:18px;
 }
 .c_breadcr_overflow_menu {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -590,7 +590,7 @@
   line-height:18px;
 }
 .c_btn_modal_danger {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -600,7 +600,7 @@
   line-height:18px;
 }
 .c_btn_modal_secondary {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -610,7 +610,7 @@
   line-height:18px;
 }
 .c_btn_notif_lc {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -623,7 +623,7 @@
   color:#0043CE;
 }
 .c_btn_primary {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -633,7 +633,7 @@
   line-height:18px;
 }
 .c_btn_secondary {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -643,7 +643,7 @@
   line-height:18px;
 }
 .c_checkbox {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -654,8 +654,54 @@
 }
 .c_checkbox__selected {
 }
+.c_datepicker_day {
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  line-height:18px;
+}
+.c_datepicker_day-ghost {
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#393939;
+  line-height:18px;
+}
+.c_datepicker_day-today {
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#0F62FE;
+  line-height:18px;
+}
+.c_datepicker_header_mo {
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.16px;
+  color:#161616;
+  text-align:right;
+  line-height:18px;
+}
+.c_datepicker_year_input {
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
+  font-weight:650;
+  font-style:normal;
+  font-size:14px;
+  color:#161616;
+  text-align:left;
+  line-height:normal;
+}
 .c_dropdown_input {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -664,7 +710,7 @@
   text-align:left;
 }
 .c_dropdown_item {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -673,7 +719,7 @@
   text-align:left;
 }
 .c_dropdown_item_w_chk {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -692,7 +738,7 @@
   line-height:normal;
 }
 .c_link {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -705,7 +751,7 @@
   color:#054ADA;
 }
 .c_multiselect_label {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -715,7 +761,7 @@
   line-height:18px;
 }
 .c_multiselect_num {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:12px;
@@ -749,7 +795,7 @@
 .c_notif_icon_black {
 }
 .c_notif_subtitle_hc {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -759,7 +805,7 @@
   line-height:18px;
 }
 .c_notif_subtitle_lc {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -769,7 +815,7 @@
   line-height:18px;
 }
 .c_notif_title_hc {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
   font-weight:650;
   font-style:normal;
   font-size:14px;
@@ -778,7 +824,7 @@
   line-height:24px;
 }
 .c_notif_title_lc {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans-SemiBold', 'IBM Plex Sans SemiBold', 'IBM Plex Sans', sans-serif;
   font-weight:650;
   font-style:normal;
   font-size:14px;
@@ -787,7 +833,7 @@
   line-height:24px;
 }
 .c_overflow_option {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -804,7 +850,7 @@
 .c_pagination_right {
 }
 .c_pagination_select_value {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -817,7 +863,7 @@
   color:#0F62FE;
 }
 .c_search_input_lg {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:16px;
@@ -827,7 +873,7 @@
   line-height:20px;
 }
 .c_search_input_sm {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -837,7 +883,7 @@
   line-height:18px;
 }
 .c_select_input {
-  font-family:'IBM Plex Sans ', 'IBM Plex Sans', sans-serif;
+  font-family:'IBMPlexSans', 'IBM Plex Sans', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
