@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="21px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <path d="M 0 0  L 256 0  L 256 256  L 0 256  Z " fill-rule="evenodd" fill="black" id="path229" />
-    <clipPath id="clip230">
-      <use xlink:href="#path229" />
+    <path d="M 0 0  L 256 0  L 256 256  L 0 256  Z " fill-rule="evenodd" fill="black" id="path281" />
+    <clipPath id="clip282">
+      <use xlink:href="#path281" />
     </clipPath>
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter231">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter283">
       <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
     </filter>
-    <filter x="350px" y="13px" width="21px" height="21px" filterUnits="userSpaceOnUse" id="filter232">
+    <filter x="350px" y="13px" width="21px" height="21px" filterUnits="userSpaceOnUse" id="filter284">
       <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
       <feGaussianBlur stdDeviation="0.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
       <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
     </filter>
-    <g id="widget233">
-      <g transform="matrix(0.07421875 0 0 0.07421875 351 13 )" clip-path="url(#clip230)" filter="url(#filter231)">
+    <g id="widget285">
+      <g transform="matrix(0.07421875 0 0 0.07421875 351 13 )" clip-path="url(#clip282)" filter="url(#filter283)">
         <g fill="#504f4f" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
           <g transform="scale(16,16)">
             <path d="M8,15c-3.86599,0 -7,-3.13401 -7,-7c0,-3.86599 3.13401,-7 7,-7c3.86599,0 7,3.13401 7,7c0,3.86599 -3.13401,7 -7,7M8,16c4.41828,0 8,-3.58172 8,-8c0,-4.41828 -3.58172,-8 -8,-8c-4.41828,0 -8,3.58172 -8,8c0,4.41828 3.58172,8 8,8"></path>
@@ -26,7 +26,7 @@
     </g>
   </defs>
   <g transform="matrix(1 0 0 1 -350 -13 )">
-    <use xlink:href="#widget233" filter="url(#filter232)" />
-    <use xlink:href="#widget233" />
+    <use xlink:href="#widget285" filter="url(#filter284)" />
+    <use xlink:href="#widget285" />
   </g>
 </svg>
