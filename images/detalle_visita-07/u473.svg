@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="99px" height="87px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px" height="62px" xmlns="http://www.w3.org/2000/svg">
   <g>
-    <path d="M 0 0  L 99 0  L 99 87  L 0 87  L 0 0  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 6 6  L 93 6  L 93 81  L 6 81  L 6 6  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 58.005 26.1  C 54.351 26.1  51.48 23.229  51.48 19.575  C 51.48 15.921  54.351 13.05  58.005 13.05  C 61.659 13.05  64.53 15.921  64.53 19.575  C 64.53 23.229  61.659 26.1  58.005 26.1  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
-    <path d="M 8 79  L 8 39.95  L 28.75 22.2  L 57.8 41.5636363636364  L 74.4 32.85  L 91 41.5636363636364  L 91 79  L 8 79  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
+    <path d="M 0 0  L 71 0  L 71 62  L 0 62  L 0 0  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 4 4  L 67 4  L 67 58  L 4 58  L 4 4  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 41.57 18.6  C 38.966 18.6  36.92 16.554  36.92 13.95  C 36.92 11.346  38.966 9.3  41.57 9.3  C 44.174 9.3  46.22 11.346  46.22 13.95  C 46.22 16.554  44.174 18.6  41.57 18.6  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 6 57  L 6 28.95  L 21 16.2  L 42 30.2788732394366  L 54 23.85  L 66 30.2788732394366  L 66 57  L 6 57  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
   </g>
 </svg>
