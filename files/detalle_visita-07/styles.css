@@ -8210,7 +8210,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:344px;
+  width:330px;
   height:699px;
   background-image:none;
   border:none;
@@ -8249,7 +8249,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:344px;
+  width:330px;
   height:699px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -8267,7 +8267,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:344px;
+  width:330px;
   height:699px;
   display:flex;
 }
@@ -8289,15 +8289,15 @@
   position:absolute;
   left:-1px;
   top:0px;
-  width:291px;
+  width:279px;
   height:24px;
 }
 #u259 {
   border-width:0px;
   position:absolute;
-  left:14px;
+  left:13px;
   top:10px;
-  width:289px;
+  width:277px;
   height:22px;
   display:flex;
   font-family:'Roboto Light', 'Roboto Regular', 'Roboto', sans-serif;
@@ -8324,7 +8324,7 @@
 #u260_img {
   border-width:0px;
   position:absolute;
-  left:146px;
+  left:139px;
   top:1px;
   width:18px;
   height:18px;
@@ -8332,9 +8332,9 @@
 #u260 {
   border-width:0px;
   position:absolute;
-  left:149px;
+  left:143px;
   top:60px;
-  width:164px;
+  width:157px;
   height:19px;
   display:flex;
   font-family:'Montserrat', sans-serif;
@@ -8367,7 +8367,7 @@
   position:absolute;
   left:5px;
   top:0px;
-  width:139px;
+  width:132px;
   word-wrap:break-word;
   text-transform:none;
 }
@@ -8391,7 +8391,7 @@
 #u261 {
   border-width:0px;
   position:absolute;
-  left:316px;
+  left:301px;
   top:13px;
   width:17px;
   height:19px;
@@ -8449,7 +8449,7 @@
   position:absolute;
   left:1px;
   top:100px;
-  width:329px;
+  width:321px;
   height:578px;
 }
 #u263_state0 {
@@ -8457,7 +8457,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:321px;
   height:578px;
   overflow:auto;
   -webkit-overflow-scrolling:touch;
@@ -8483,7 +8483,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:308px;
   height:207px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -8506,7 +8506,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:308px;
   height:207px;
   display:flex;
 }
@@ -9006,7 +9006,7 @@
 .u277 {
   border-width:0px;
   position:absolute;
-  left:296px;
+  left:283px;
   top:11px;
   width:16px;
   height:18px;
@@ -9064,7 +9064,7 @@
   position:relative;
   left:0px;
   top:0px;
-  width:297px;
+  width:284px;
   height:71px;
   background-image:none;
   border:none;
@@ -9102,7 +9102,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:297px;
+  width:284px;
   height:71px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -9126,7 +9126,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:297px;
+  width:284px;
   height:71px;
   display:flex;
   font-family:'Roboto', sans-serif;
@@ -9152,7 +9152,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:296px;
+  width:283px;
   height:46px;
   padding:2px 2px 2px 5px;
   font-family:'Roboto', sans-serif;
@@ -9172,7 +9172,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:296px;
+  width:283px;
   height:46px;
   padding:2px 2px 2px 5px;
   font-family:'Roboto', sans-serif;
@@ -9193,7 +9193,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:296px;
+  width:283px;
   height:46px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -9211,7 +9211,7 @@
   position:absolute;
   left:1px;
   top:25px;
-  width:296px;
+  width:283px;
   height:46px;
   display:flex;
   font-family:'Roboto', sans-serif;
@@ -9230,7 +9230,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:296px;
+  width:283px;
   height:46px;
   background:inherit;
   background-color:rgba(240, 240, 240, 1);
@@ -9337,7 +9337,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:322px;
   height:207px;
 }
 .u277 label {
@@ -9349,7 +9349,7 @@
   position:absolute;
   left:0px;
   top:207px;
-  width:329px;
+  width:322px;
   height:207px;
 }
 .u277 label {
@@ -9361,7 +9361,7 @@
   position:absolute;
   left:0px;
   top:414px;
-  width:329px;
+  width:322px;
   height:207px;
 }
 .u277 label {
@@ -9373,7 +9373,7 @@
   position:absolute;
   left:0px;
   top:621px;
-  width:329px;
+  width:322px;
   height:207px;
 }
 .u277 label {
@@ -9385,7 +9385,7 @@
   position:absolute;
   left:0px;
   top:828px;
-  width:329px;
+  width:322px;
   height:207px;
 }
 .u277 label {
@@ -9397,7 +9397,7 @@
   position:absolute;
   left:0px;
   top:1035px;
-  width:329px;
+  width:322px;
   height:207px;
 }
 .u277 label {
@@ -9409,7 +9409,7 @@
   position:absolute;
   left:0px;
   top:1242px;
-  width:329px;
+  width:322px;
   height:207px;
 }
 .u277 label {
@@ -9421,7 +9421,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:329px;
+  width:322px;
   height:1449px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
