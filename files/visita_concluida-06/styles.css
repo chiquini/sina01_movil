@@ -22,15 +22,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:460px;
+  width:329px;
   height:2px;
 }
 #u1142 {
   border-width:0px;
   position:absolute;
-  left:-41px;
+  left:15px;
   top:1484px;
-  width:459px;
+  width:328px;
   height:1px;
   display:flex;
   font-family:'Montserrat', sans-serif;
@@ -23743,14 +23743,21 @@
   position:fixed;
   left:0px;
   bottom:0px;
+  width:358px;
+  height:56px;
   visibility:hidden;
 }
 #u1722_state0 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
-  width:393px;
+  width:358px;
   height:56px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -23944,11 +23951,16 @@
   visibility:hidden;
 }
 #u1722_state1 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
-  width:393px;
-  height:90px;
+  width:358px;
+  height:56px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
   border:none;
   border-radius:0px;
