@@ -22,15 +22,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:460px;
+  width:296px;
   height:2px;
 }
 #u41 {
   border-width:0px;
   position:absolute;
-  left:-41px;
+  left:29px;
   top:1319px;
-  width:459px;
+  width:295px;
   height:1px;
   display:flex;
   font-family:'Montserrat', sans-serif;
@@ -24923,7 +24923,7 @@
 }
 #u657 {
   position:fixed;
-  left:0px;
+  left:-430px;
   bottom:0px;
   visibility:hidden;
 }
@@ -26434,7 +26434,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:36px;
+  width:53px;
   height:34px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -26451,9 +26451,9 @@
 #u703 {
   border-width:0px;
   position:absolute;
-  left:109px;
+  left:92px;
   top:90px;
-  width:36px;
+  width:53px;
   height:34px;
   display:flex;
   font-family:'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;

@@ -23952,14 +23952,21 @@
   position:fixed;
   left:0px;
   bottom:0px;
+  width:358px;
+  height:56px;
   visibility:hidden;
 }
 #u2378_state0 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
-  width:393px;
+  width:358px;
   height:56px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -24123,11 +24130,16 @@
   visibility:hidden;
 }
 #u2378_state1 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
-  width:393px;
-  height:88px;
+  width:358px;
+  height:56px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-image:none;
   border:none;
   border-radius:0px;
@@ -24744,7 +24756,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:37px;
+  width:57px;
   height:34px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -24761,9 +24773,9 @@
 #u2404 {
   border-width:0px;
   position:absolute;
-  left:109px;
+  left:89px;
   top:90px;
-  width:37px;
+  width:57px;
   height:34px;
   display:flex;
   font-family:'Roboto Bold', 'Roboto Regular', 'Roboto', sans-serif;
