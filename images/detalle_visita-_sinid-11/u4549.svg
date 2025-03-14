@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="21px" height="21px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M 0 0  L 256 0  L 256 256  L 0 256  Z " fill-rule="evenodd" fill="black" id="path2005" />
+    <clipPath id="clip2006">
+      <use xlink:href="#path2005" />
+    </clipPath>
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="filter2007">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0  " in="SourceGraphic" />
+    </filter>
+    <filter x="350px" y="14px" width="21px" height="21px" filterUnits="userSpaceOnUse" id="filter2008">
+      <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="0.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget2009">
+      <g transform="matrix(0.07421875 0 0 0.07421875 351 14 )" clip-path="url(#clip2006)" filter="url(#filter2007)">
+        <g fill="#504f4f" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal">
+          <g transform="scale(16,16)">
+            <path d="M8,15c-3.86599,0 -7,-3.13401 -7,-7c0,-3.86599 3.13401,-7 7,-7c3.86599,0 7,3.13401 7,7c0,3.86599 -3.13401,7 -7,7M8,16c4.41828,0 8,-3.58172 8,-8c0,-4.41828 -3.58172,-8 -8,-8c-4.41828,0 -8,3.58172 -8,8c0,4.41828 3.58172,8 8,8"></path>
+            <path d="M4,8c0,-0.27614 0.22386,-0.5 0.5,-0.5h7c0.27614,0 0.5,0.22386 0.5,0.5c0,0.27614 -0.22386,0.5 -0.5,0.5h-7c-0.27614,0 -0.5,-0.22386 -0.5,-0.5"></path>
+          </g>
+        </g>
+      </g>
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -350 -14 )">
+    <use xlink:href="#widget2009" filter="url(#filter2008)" />
+    <use xlink:href="#widget2009" />
+  </g>
+</svg>
