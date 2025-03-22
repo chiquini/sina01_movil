@@ -1,1 +1,18 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0,0,256,256"><g fill="#7fb828" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(16,16)"><path d="M16,8c0,4.41828 -3.58172,8 -8,8c-4.41828,0 -8,-3.58172 -8,-8c0,-4.41828 3.58172,-8 8,-8c4.41828,0 8,3.58172 8,8M12.03,4.97c-0.14433,-0.14383 -0.34096,-0.22274 -0.54468,-0.21859c-0.20371,0.00415 -0.39697,0.091 -0.53532,0.24059l-3.473,4.425l-2.093,-2.094c-0.29551,-0.27536 -0.75601,-0.26723 -1.04162,0.01838c-0.28561,0.28561 -0.29374,0.74611 -0.01838,1.04162l2.646,2.647c0.14402,0.14376 0.34028,0.22283 0.54375,0.21906c0.20346,-0.00377 0.39666,-0.09006 0.53525,-0.23906l3.992,-4.99c0.2831,-0.29435 0.27865,-0.7611 -0.01,-1.05z"></path></g></g></svg>
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="110px" y="9px" width="35px" height="35px" filterUnits="userSpaceOnUse" id="filter957">
+      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="1" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget958">
+      <path d="M 0 15.5  L 2.58333333333333 15.5  C 2.58333333333333 22.7333333333333  8.26666666666667 28.4166666666667  15.5 28.4166666666667  C 22.7333333333333 28.4166666666667  28.4166666666667 22.7333333333333  28.4166666666667 15.5  C 28.4166666666667 8.26666666666667  22.7333333333333 2.58333333333333  15.5 2.58316173648182  L 15.5 0  C 24.18 0  31 6.82  31 15.5  C 31 24.18  24.18 31  15.5 31  C 6.82 31  0 24.18  0 15.5  Z " fill-rule="nonzero" fill="#ffe9eb" stroke="none" transform="matrix(1 0 0 1 112 9 )" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -110 -9 )">
+    <use xlink:href="#widget958" filter="url(#filter957)" />
+    <use xlink:href="#widget958" />
+  </g>
+</svg>
